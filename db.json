@@ -1,0 +1,21 @@
+{
+  "staffMeta": {
+    "StaffID": 0,
+    "StaffName": "",
+    "Email": "",
+    "LocationName": "",
+    "StartDate": "",
+    "JobTitle": "",
+    "GradeLevel": 0,
+    "DisciplineName": "",
+    "imgUrl": "",
+    "careerStart": "",
+    "nationality": "",
+    "qualifications": "",
+    "professionalAssociations": "",
+    "committees": "",
+    "publications": "",
+    "highLevelDescription": "",
+    "valueStatement": ""
+  }
+}
